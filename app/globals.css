@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --padel-green: #2d6a4f;
+  --padel-green-light: #40916c;
+  --padel-green-dark: #1b4332;
+  --padel-accent: #74c69d;
+}
